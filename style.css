@@ -1,0 +1,336 @@
+@charset "utf-8";
+
+.header-logo {
+    max-width: 200px;
+    margin-left: -11px;
+}
+
+.header-icon {
+    max-width: 25px;
+    padding-right: 1px;
+    margin-right: 10px;
+}
+
+.nav {
+    padding-bottom: 0px;
+    margin-top: 15px;
+}
+.nav-item {
+    font-size: medium;
+    color: #880015;
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    padding-right: 31px;
+	}
+
+.nav-link {
+    color: #000000;
+	font-weight: normal;
+    font-family: "Rubik","Rubik Medium", "Rubik SemiBold";
+    font-style: normal;	
+	align-content: center;
+	}
+
+.nav-link:hover {
+    color: #880015;
+    font-family: "Rubik";
+	}
+
+.bar-btn {
+	color: white;
+	font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold"
+}
+
+.bar-btn:hover {
+	color: white;
+	font-family: "Rubik Medium";
+	text-decoration: none;
+	}
+
+.btn-sm {
+    font-size: large;
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-weight: normal;
+    margin-top: 15px;
+}
+
+
+
+.h5 {
+    font-size: 80px;
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    padding-top: 0px;
+    text-shadow: 2px 2px 15px #2F2F2F;
+    margin-bottom: 75px;
+}
+
+.p {
+    margin-top: -60px;
+    margin-bottom: 243px;
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-style: italic;
+}
+
+.content-height {
+    min-height: 303px;
+    margin-top: 73px;
+}
+
+.section-title {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    color: #880015;
+    font-size: 38px;
+    padding-top: 2px;
+    padding-bottom: 18px;
+    line-height: 39px;
+    text-align: left;
+    letter-spacing: 0;
+    font-weight: 400;
+    margin-left: 32px;
+}
+
+.section-marker {
+    font-size: 106px;
+    color: #880015;
+    padding-top: 0px;
+    margin-bottom: -22px;
+    margin-top: -48px;
+    margin-left: 25px;
+}
+.product-section-title {
+    font-size: 52px;
+    padding-top: 20px;
+    padding-left: 0px;
+    margin-left: -42px;	
+}
+
+.right-section {
+    margin-left: 20px;
+}
+.section-items {
+    margin-top: 8px;
+}
+
+.vertical-line { 
+	
+	width: 5px;
+	height:500px;
+	background-color: #880015;
+}
+
+.card {
+    padding-top: 0px;
+	border: hidden;
+}
+
+.card-title {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+}
+
+.card-text {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-size: 15px;
+    margin-top: -9px;
+}
+.price-old {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-size: 13px;
+    text-decoration: line-through;
+    margin-top: -12px;
+	color: red;
+}
+
+.price-new {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-size: 15px;
+	color: black;
+}
+
+.price-new:hover {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-size: 15px;
+	color: #880015;
+	text-decoration: none;
+}
+
+
+.breathing-space {
+    margin-top: 39px;
+}
+
+.section-banner   {
+    margin-top: 20px;
+}
+
+.footer {
+    min-height: 54px;
+    background-color: #880015;
+    color: #FFFFFF;
+}
+.footer-columns {
+    padding-left: 150px;
+    padding-right: 150px;
+    min-height: 95px;
+	margin-top: 33px;
+
+}
+
+.footer-cards {
+    min-height: 250px;
+}
+.footer-logo {
+    max-height: 200px;
+}
+
+.footer-contact {
+    min-height: 50px;
+}
+
+.footer-form {
+    margin-top: 30px;
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+}
+
+.form-group {
+    min-height: 100px;
+}
+.form-control {
+    background-color: #880015;
+    border-width: thin;
+    border-color: #FFFFFF;
+	border-radius: 0px;
+	min-width: 280px;
+}
+
+.btn-subscribe {
+    color: antiquewhite;
+    text-align: right;
+    text-decoration: none;
+    margin-top: 50px;
+    padding-left: 235px;
+}
+
+.btn-subscribe:hover { 
+
+	color: antiquewhite;
+	text-decoration: none;
+	font-family: "Rubik Medium";
+}
+
+.btn-buy:hover {
+	text-decoration:underline;
+    max-width: 0px;
+	}
+		
+.form-label {
+    font-size: small;
+}
+
+.btn-primary {
+    background-color: #880015;
+    color: #F5F5F5;
+}
+
+.footer-buttons {
+    margin-bottom: 10px;
+}
+	
+.footer-buttons-set {
+    margin-top: 98px;
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+}
+
+.text-muted {
+	color: #880015
+}
+
+.card-text {
+}
+.posters-text {
+    font-size: small;
+}
+.posters-size {
+    font-size: small;
+    max-width: 320px;
+}
+.container.header-main .row .col-xl-4 {
+}
+.horizontal-line {
+    border-top-width: thin;
+    border-top-color: #FFFFFF;
+}
+.footer-columns {
+    min-height: 56px;
+}
+.nav-item nav-hover {
+    color: #880015;
+    padding-left: 19px;
+    margin-right: 30px;
+}
+
+
+	
+.footer-btn:hover {
+	text-decoration: underline
+}
+.footer-label {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-size: 12px;
+    text-align: right;
+}
+
+
+.bar-wrap {
+    margin-left: 462px;
+}
+.bar-main {
+    background-color: #880015;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	
+}
+
+.footer-btn {
+	color: white;
+	}
+.footer-btn:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+.form-label {
+    margin-bottom: 10px;
+}
+.form-control {
+    margin-bottom: 9px;
+    max-width: 280px;
+}
+.carousel-control-next {
+}
+.events-image  {
+    max-width: 405px;
+
+}
+.para {
+    font-family: Rubik, "Rubik Black", "Rubik Light", "Rubik Medium", "Rubik SemiBold";
+    font-size: 25px;
+    margin-left: -39px;
+}
+.carousel-inner {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+.cta-banner {
+}
+.breathing-space {
+    padding-right: 150px;
+    padding-left: 150px;
+
+}
+.row {
+}
+.product-list {
+}
+.product-list {
+    padding-right: 150px;
+}
